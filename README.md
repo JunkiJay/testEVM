@@ -39,5 +39,12 @@ https://sepolia.etherscan.io/tx/0xb0e2354bc66008987e7a5429294e467f9d5308140f1062
 
 https://sepolia.etherscan.io/tx/0x9259ea4d50793e7ac4402be41369517c54c76185e625970295bda605e44e0364 V2 аналогично
 
+Для второго задания параметры в конструкторе - 
+
+- Router: 0x10ED43C718714eb63d5aA57B78B54704E256024E
+
+- WETH (на BSC это Wrapped BNB, WBNB): 0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c
+
+https://sepolia.etherscan.io/tx/0xddc32e18da436a59817b406c7c081135acb2e8981418f849f93b9276115d6f00 - на всякий случай на сеполии разернул но опять таки нет никакого смысла потому что я писал для mainnet и на testnet это не протестить - на всякий случай закинул)
 
 
